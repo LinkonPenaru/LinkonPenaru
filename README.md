@@ -45,7 +45,7 @@
 
 ---
 
-## 🐍 Contribution Snake (Auto Animated)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LinkonPenaru/LinkonPenaru/output/github-contribution-grid-snake-dark.svg" />
@@ -73,4 +73,10 @@
 
 ---
 
-<h3 align="center">"If you don’t like your destiny, don’t accept it." – Naruto </h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&width=950&lines=%22If+you+don’t+like+your+destiny,+don’t+accept+it.%22+-+Naruto" />
+</h3>
+
+
+
+
