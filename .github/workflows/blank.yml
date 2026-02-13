@@ -14,7 +14,20 @@ jobs:
         with:
           github_user_name: LinkonPenaru
           outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          snake_color: "#FF5733"          
+          background_color: "#FFFFFF"     
+          grid_color: "#D0D7DE"           
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: LinkonPenaru
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          snake_color: "#FF5733"         
+          background_color: "#0D1117"     
+          grid_color: "#30363D"           
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
@@ -22,4 +35,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
