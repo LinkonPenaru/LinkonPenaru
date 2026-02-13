@@ -73,4 +73,4 @@
 
 ---
 
-<h3 align="center">⚡ Code. Debug. Optimize. Repeat.</h3>
+<h3 align="center">"If you don’t like your destiny, don’t accept it." – Naruto </h3>
