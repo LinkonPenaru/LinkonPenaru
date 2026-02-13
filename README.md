@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rithik Linkon Penaru</h1>
+<h3 align="center">Computer Science Student | Problem Solver | Tech Explorer</h3>
 
-<!--
-**LinkonPenaru/LinkonPenaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/LinkonPenaru">
+    <img src="https://komarev.com/ghpvc/?username=LinkonPenaru&label=Profile%20views&color=0e75b6&style=flat" alt="LinkonPenaru" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Computer Science Student
+- 🤖 Enthusiast in Machine Learning & Artificial Intelligence
+- 💻 Passionate about Data Structures & Algorithms
+- 🛠️ Currently working with Graph Theory and building Machine Learning models
+- 🚀 Always building, always learning, always experimenting with ML models
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,php,js,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LinkonPenaru&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinkonPenaru&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LinkonPenaru&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LinkonPenaru/LinkonPenaru/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- 🤖 Machine Learning Models and Algorithms 
+- 🧩 Data Structures & Algorithms  
+- 🖥️ System Programming  
+- 🌐 Backend Development  
+- ⚙️ Database Systems  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rithik-linkon-penaru-b1b0b8266/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">⚡ Code. Debug. Optimize. Repeat.</h3>
